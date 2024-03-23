@@ -1,6 +1,6 @@
 # NFT Preview Card Component
 
-This is a React component for displaying NFT (Non-Fungible Token) preview cards. It's built using Vite for the project setup and React for the UI components.
+This is a React component for displaying NFT (Non-Fungible Token) preview cards. It's built using Vite for the project setup and React for the UI components. A challenge by Frontend Mentor.
 
 ## Features
 

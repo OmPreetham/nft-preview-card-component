@@ -1,7 +1,11 @@
 import NFTPreviewCard from './components/NFTPreviewCard'
 
 function App() {
-  return <NFTPreviewCard />
+  return (
+    <main>
+      <NFTPreviewCard />
+    </main>
+  )
 }
 
 export default App
