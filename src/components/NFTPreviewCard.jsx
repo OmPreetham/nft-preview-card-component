@@ -5,14 +5,14 @@ const NFTPreviewCard = () => {
         <div>
           <img
             className="icon "
-            src="/images/image-equilibrium.jpg"
+            src="./images/image-equilibrium.jpg"
             alt="Ethereum Icon"
           />
         </div>
         <div className="overlay-effect">
           <img
             className="overlay-svg"
-            src="/images/icon-view.svg"
+            src="./images/icon-view.svg"
             alt="Ethereum SVG"
           />
         </div>
@@ -25,18 +25,18 @@ const NFTPreviewCard = () => {
       </div>
       <div className="eth">
         <div className="value">
-          <img src="/images/icon-ethereum.svg" alt="ethereum icon" />
+          <img src="./images/icon-ethereum.svg" alt="ethereum icon" />
           <p>0.041 ETH</p>
         </div>
         <div className="time">
-          <img src="/images/icon-clock.svg" alt="ethereum icon" />
+          <img src="./images/icon-clock.svg" alt="ethereum icon" />
           <p>3 days left</p>
         </div>
       </div>
       <div className="author">
         <img
           className="avatar"
-          src="/images/image-avatar.png"
+          src="./images/image-avatar.png"
           alt="Jules Wayvern Potrait"
         />
         <p>
